@@ -61,6 +61,13 @@ title:  "git 사용법 학습"
     ` command + shift + . `
    
    <br>
+    
+    * 기본 브랜치명 변경
+     
+     ` git config --global init.defaultBranch main `
+   
+   <br>
+    
 
 3. 올리지 않아도 되는 파일 관리
    <br>
